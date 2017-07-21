@@ -1,12 +1,7 @@
 ## aysncio-socks5
 
 Just a socks5 server
-
+- python 3.5+
 - Support username/password authentication
 - Support command *CONNECT*
-
-## TODO
-
-1. Support command BIND, UDP ASSOCIATE
-2. Optimize the logic between IPv4 and IPv6
 
